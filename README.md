@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ibb.co/N6CpSbD"><img src="https://i.ibb.co/N6CpSbD/Captura-de-pantalla-2021-08-22-115317.png" alt="Captura-de-pantalla-2021-08-22-115317" border="0" /></a></p>
+<p align="center"><a href="https://ibb.co/N6CpSbD"><img src="https://i.ibb.co/fYFtvL6/Captura-de-pantalla-2021-08-22-115317.png" alt="Captura-de-pantalla-2021-08-22-115317" border="0" /></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
